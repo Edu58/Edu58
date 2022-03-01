@@ -42,6 +42,7 @@
 
 ## Open For Oppurtunities :purple_heart: !
 - Frontend Developer
+- - Web Developer Internship
 
 ## ⚡ Fun fact:
 - I have a degree in GIS
