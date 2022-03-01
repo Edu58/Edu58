@@ -1,18 +1,16 @@
 ## Hi there 👋
 ## I'm Edwin
 
-![vector image](vector.jpg)
-
 - 🔭 I’m currently a software developemt student.
 - 🌱 I’m currently learning React and Firebase concepts and implementations.
-- 👯 I’m looking to collaborate on Frontend projects .
+- 👯 I’m looking to collaborate on React Project.
 - 💬 Ask me about Learning path for a web developer.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
 
 ## Can Help You With :star: :star:  :
 - Debugging your HTML,CSS,JS & React.
 - Create user friendly and appealing web pages.
-- Create react UI's and implement logic with firebase.
+- Create react UI's and implement authentication and storage with firebase.
 
 
 ## Github STATS :cyclone: !
