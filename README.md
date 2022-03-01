@@ -4,7 +4,7 @@
 - 🔭 I’m currently a software development student.
 - 🌱 I’m currently learning React and Firebase concepts and implementations.
 - 👯 I’m looking to collaborate on React Project.
-- 💬 Ask me about Learning path for a web developer.
+- 💬 Ask me about learning path for a self-taught web developer.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
 
 ## Active On :
