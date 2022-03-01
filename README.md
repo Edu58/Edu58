@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=mongodb&logoColor=yellow">
 <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Vscode-4EA94B?style=for-the-badge&logo=visual-studio-code&logoColor=blue">
+  <img src="https://img.shields.io/badge/Vscode-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 
