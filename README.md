@@ -44,7 +44,7 @@
 
 ## Open For Oppurtunities :purple_heart:
 - Frontend Developer
-- Web Developer Internship
+- Web Developer Intern
 - ReactJS Developer
 
 ## ⚡ Fun fact:
