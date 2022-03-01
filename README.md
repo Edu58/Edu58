@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Edwin
 
-![vector image](images/)
+![vector image](vector.jpg)
 
 - 🔭 I’m currently a software developemt student.
 - 🌱 I’m currently learning React and Firebase concepts and implementations.
