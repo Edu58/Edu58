@@ -9,8 +9,12 @@
 
 ## Active On :
 <p>
-<a href="https://twitter.com/GISDevEd" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edwin" height="30" width="40" color="blue" /></a>  
-<a href="https://www.linkedin.com/in/edwin-karimi/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edwin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edwin-karimi/" target="_blank">
+  <img src="https://img.shields.io/badge/-Edwin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/GISDevEd" target="_blank">
+  <img src="https://img.shields.io/badge/-Edwin-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
 </p>
 
 ## Languages and Tools:
