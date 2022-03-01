@@ -33,16 +33,16 @@
 </p>
 
 
-## Github STATS :cyclone: !
+## Github STATS :cyclone:
 
 ![Edwin github stats](https://github-readme-stats.vercel.app/api?username=Edu58&show_icons=true&theme=radical)
 <br>
 
-## Some Repos to Visit :blossom: !
+## Some Repos to Visit :blossom:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu58&repo=Black-React-Portfolio&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu58&repo=Covid19-Update-WebApp-Leaflet.js&show_icons=true&theme=radical)
 
-## Open For Oppurtunities :purple_heart: !
+## Open For Oppurtunities :purple_heart:
 - Frontend Developer
 - Web Developer Internship
 - ReactJS Developer
