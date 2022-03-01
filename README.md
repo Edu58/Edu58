@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Edwin
 
-- 🔭 I’m currently a software developemt student.
+- 🔭 I’m currently a software development student.
 - 🌱 I’m currently learning React and Firebase concepts and implementations.
 - 👯 I’m looking to collaborate on React Project.
 - 💬 Ask me about Learning path for a web developer.
