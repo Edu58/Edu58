@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Edwin
 
-- 🔭 I’m currently a software development student.
+- 🔭 I’m currently building projects for fun.
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Flask or Django Project.
 - 💬 Ask me about web development using Python and Angular.
