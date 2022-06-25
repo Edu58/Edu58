@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## I'm Edwin
 
-- 🔭 I’m currently building projects for fun.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Flask or Django Project.
 - 💬 Ask me about web development using Python and Angular.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
