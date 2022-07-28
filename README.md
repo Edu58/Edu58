@@ -51,7 +51,7 @@
 - ReactJS Developer
 
 ## ⚡ Fun fact:
-- I have a degree in GIS
+- Also a GIS Engineer
 
 -----
 
