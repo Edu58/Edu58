@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Vscode-0077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Pycharm-4EA94B?style=for-the-badge&logo=pycharm&logoColor=yellow">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=mongodb&logoColor=yellow">
 <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue">
 </p>
 
