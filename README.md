@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## I'm Edwin
-
+- 🍀 Currently learning Java, Spring & Spring Boot
 - 👯 I’m looking to collaborate on Flask or Django Projects.
-- 💬 Ask me about web development using Python and Angular.
+- 💬 Ask me about web development using Django.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
 
 ## Active On :
@@ -44,7 +44,7 @@
 
 ## Open For Oppurtunities :purple_heart:
 - Python Web Developer
-- Web Developer Intern
+- Web Developer
 - Angular Developer
 - ReactJS Developer
 
