@@ -36,7 +36,7 @@
 
 ## Github STATS :cyclone:
 
-![Edu58 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu58&show_icons=true&theme=radical&show_icons=true&count_private=true)
+![Edu58 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu58&show_icons=true&theme=radical&count_private=true)
 <br>
 
 <!-- ## Some Repos to Visit :blossom:
