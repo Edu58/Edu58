@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Edwin
 - 🍀 Currently working as a Django developer
-- 📝 Also learning Java Spring and Spring Boot
+- 📝 Also learning system design
 - 👯 I’m looking to collaborate on Flask or Django Projects.
 - 💬 Ask me about web development using Django.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
