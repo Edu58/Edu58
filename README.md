@@ -44,10 +44,11 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Edu58&repo=Covid19-Update-WebApp-Leaflet.js&show_icons=true&theme=radical) -->
 
 ## Open For Oppurtunities :purple_heart:
-- Python Web Developer
-- Web Developer
-- Angular Developer
-- ReactJS Developer
+- Python Developer
+- Django Developer
+- Django + React | Angular Developer
+- Flask Developer
+
 
 ## ⚡ Fun fact:
 - Also a GIS Engineer
