@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## I'm Edwin
-- 🍀 Currently working as a Django developer
-- 📝 Also learning system design
-- 👯 I’m looking to collaborate on Flask or Django Projects.
-- 💬 Ask me about web development using Django.
+- 🍀 Currently working as an Elixir
+- 📝 Also learning database performance optimization and high availability
+- 👯 I’m looking to collaborate on Elixir or Golang Projects.
+- 💬 Ask me about web development.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
 
 ## Active On :
@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue">
 <img src="https://img.shields.io/badge/Angular-14354C?style=for-the-badge&logo=angular&logoColor=red">
   <img src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=blue">
 <img src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=purple">
