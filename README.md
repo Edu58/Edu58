@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=elixir&logoColor=purple">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=phoenix&logoColor=orange">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=purple">
+  <img src="https://img.shields.io/badge/Phoenix-092E20?style=for-the-badge&logo=phoenix&logoColor=orange">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=phoenix-liveview&logoColor=orange">
 <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Vscode-0077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white">
