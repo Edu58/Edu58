@@ -3,7 +3,7 @@
 - 🍀 Currently working as an Elixir developer
 - 📝 Also learning database performance optimization and high availability
 - 👯 I’m looking to collaborate on Elixir or Golang Projects.
-- 💬 Ask me about web development.
+- 💬 Ask me about software engineering.
 - 📫 How to reach me: mail at edumuriithi58@gmail.com
 
 ## Active On :
