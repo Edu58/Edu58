@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Edwin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/edwinkarimi" target="blank">
-  <img src="https://img.shields.io/badge/-Edwin-0077B5?style=for-the-badge&logo=x&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Edwin-00000?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 </p>
 
