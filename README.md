@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=blue">
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=purple">
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=phoenix-framework&logoColor=FD4F00%22">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=phoenix-framework&logoColor=orange">
   <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue">
 </p>
 
